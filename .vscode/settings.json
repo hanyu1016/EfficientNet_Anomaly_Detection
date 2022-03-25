@@ -1,0 +1,20 @@
+{
+    "python.pythonPath": "C:\\Users\\jiunda\\.conda\\envs\\tf_1_14\\python.exe",
+    "cSpell.words": [
+        "arange",
+        "astype",
+        "cmap",
+        "imgs",
+        "imread",
+        "imshow",
+        "imutils",
+        "preds",
+        "probs",
+        "pyplot",
+        "sklearn",
+        "xlabel",
+        "xticks",
+        "ylabel",
+        "yticks"
+    ]
+}
